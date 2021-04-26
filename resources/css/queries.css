@@ -82,6 +82,20 @@ textarea{margin-bottom: 10px;}
 .footer-nav li,
 .social-links li{margin-right: 7px;}
 
+.mobile-nav-icon{
+    display:inline-block;
+}
+
+.main-nav{
+    float: left;
+}
+
+.main-nav li{
+    display: block;
+}
+
+
+
         
         
 }

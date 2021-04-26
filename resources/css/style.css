@@ -335,6 +335,7 @@ margin-top: 70px;
 .app-screen{
     width:40%;
     height:auto;
+    
 }
 
 .works-step{
@@ -627,7 +628,17 @@ footer p{
     
   }
 
-  
+  .mobile-nav-icon{
+     float:right;
+     margin-top: 50px;
+     cursor: pointer;
+     display: none;
+  }
+
+  .mobile-nav-icon i{
+      color: white;
+      font-size: 30px;
+  }
 
 
 /* footer ul li{
@@ -651,3 +662,4 @@ footer:last-child{
     padding-bottom: 2%;
 
 } */
+
